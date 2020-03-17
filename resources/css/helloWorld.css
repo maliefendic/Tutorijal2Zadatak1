@@ -1,0 +1,11 @@
+.root{
+   -fx-background: blue;
+}
+.label{
+    -fx-font-size: 30;
+}
+.button{
+    -fx-background-color: red;
+    -fx-pref-width:150px;
+    -fx-pref-height: 50px;
+}
